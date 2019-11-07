@@ -4,7 +4,7 @@
 
 public class HelloWorld
 {
-
+  Public striing Country = "Cameroun" 
  
  // Add your new constructors  
 
